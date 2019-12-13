@@ -1,0 +1,33 @@
+{
+	"dir" : "ltr",
+	"lang" : "en-US",
+	"name" : "My Memory",
+	"scope" : "/",
+	"display" : "standalone",
+	"start_url" : "https://www.imis.me/",
+	"short_name" : "My Memory",
+	"theme_color" : "#fff",
+	"description" : "记录我的生活经历和意识流的博客",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : "",
+	"prefer_related_applications" : "false",
+	"icons" : [
+		{
+			"src": "https://www.imis.me/favicon.ico",
+			"sizes": "16x16"
+		},
+		{
+			"src": "https://www.imis.me/favicon.ico",
+			"sizes": "16x16"
+		},
+		{
+			"src": "https://i.loli.net/2019/12/11/Wd1fne6UJRFNwYS.png",
+			"sizes": "114x114"
+		},
+		{
+			"src": "https://i.loli.net/2019/12/11/QxbtH7fpBFkNcL1.png",
+			"sizes": "74x74"
+		}],
+	"generated" : "true"
+}
